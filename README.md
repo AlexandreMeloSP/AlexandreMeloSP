@@ -1,4 +1,4 @@
-- Hi, I'm @AlexandreMeloSP
+- Hi, I'm @AlexandreMeloSP.
 - I'm interested in Cyber Security - Data Science
 - I am currently learning Python
 - I'm looking to collaborate on GitHub
